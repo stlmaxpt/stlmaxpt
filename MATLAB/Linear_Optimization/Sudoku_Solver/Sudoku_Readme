@@ -1,1 +1,2 @@
-
+This directory solves sudoku puzzles using linear optimization, which is not the most efficient way to do it but it is pretty cool.
+More in the paper attached.
