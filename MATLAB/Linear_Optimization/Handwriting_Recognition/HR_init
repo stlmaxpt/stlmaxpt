@@ -1,1 +1,4 @@
-
+This directory contains two versions of a handwriting recognition solver.
+These are both based on linear optimization techniques, and have a paper written about each.
+The data used in this project is too large for GitHub, but can be easily emailed to whoever might want it.
+The first version of the solver is done purely in MATLAB, using standard toolboxes, but the second one uses solvers from the CVX library, which can be installed from their website, cvxr.rbind.io.
