@@ -1,1 +1,2 @@
 Python version of the wordle game, with a version that can play the NYtimes version, and a version that can randomly generate a word and converge on a solution.
+Also has a text file with each word possibility.
